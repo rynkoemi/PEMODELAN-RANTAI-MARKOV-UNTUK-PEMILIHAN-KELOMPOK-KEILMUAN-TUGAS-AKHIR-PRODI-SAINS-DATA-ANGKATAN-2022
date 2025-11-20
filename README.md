@@ -51,39 +51,34 @@ Analisis mencakup pembersihan data, perhitungan matriks transisi, probabilitas m
 
 ---
 
-## 📐 Matriks Transisi (P)
+### Matriks Transisi (P)
 
-```
 $$
-P = \begin{pmatrix}
+P =
+\begin{pmatrix}
 0.9231 & 0.0769 \\
 0.1875 & 0.8125
 \end{pmatrix}
 $$
-```
 
 ---
 
-## 🔁 n-step Transition (P⁵)
+### n-step Transition (P^5)
 
-```
 $$
-P^5 = \begin{pmatrix}
+P^5 =
+\begin{pmatrix}
 0.7717 & 0.2283 \\
 0.5564 & 0.4463
 \end{pmatrix}
 $$
-```
-
----
-
-## 🔮 Distribusi Stasioner (π)
 
 ```
+### Distribusi Stasioner (π)
+
 $$
 \pi = (0.7091,\; 0.2909)
 $$
-```
 
 ---
 

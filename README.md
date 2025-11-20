@@ -56,29 +56,32 @@ S = { X1, X2 }
 
 ### **Transition Matrix**
 
-[
-P=
-\begin{bmatrix}
-0.9231 & 0.0769 \
+### Transition Matrix
+$$
+P = \begin{pmatrix}
+0.9231 & 0.0769 \\
 0.1875 & 0.8125
-\end{bmatrix}
-]
+\end{pmatrix}
+$$
+
 
 ### **n-step Transition**
 
-[
-P^5=
-\begin{bmatrix}
-0.7717 & 0.2283 \
+### n-step Transition (P^5)
+$$
+P^5 = \begin{pmatrix}
+0.7717 & 0.2283 \\
 0.5564 & 0.4463
-\end{bmatrix}
-]
+\end{pmatrix}
+$$
 
 ### **Steady-State Distribution**
 
-[
-\pi = (0.7091, 0.2909)
-]
+### Steady-State Distribution
+$$
+\pi = (0.7091,\; 0.2909)
+$$
+
 
 ### **State Classification**
 

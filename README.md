@@ -61,7 +61,6 @@ P =
 \end{pmatrix}
 $$
 
----
 
 ### n-step Transition (P^5)
 
@@ -73,14 +72,13 @@ P^5 =
 \end{pmatrix}
 $$
 
-```
+
 ### Distribusi Stasioner (π)
 
 $$
 \pi = (0.7091\; 0.2909)
 $$
 
-```
 
 ---
 

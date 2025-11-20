@@ -131,20 +131,6 @@ Analisis ini disusun sebagai bagian dari tugas akademik untuk mempelajari penera
 
 ---
 
-# 🎉 Selesai! README kamu kini 100% rapi, profesional, dan tampil sempurna di GitHub.
-
-Kalau kamu mau:
-
-* versi README **lebih minimalis**,
-* versi **bahasa Inggris**,
-* versi dengan **badge GitHub (language, stars, license, dll)**,
-* atau ingin aku **integrasikan screenshot & gambar diagram** langsung ke README,
-
-tinggal bilang saja!
-
-
----
-
 ## 👤 Pengembang
 
 **Rayan Koemi Karuby**
@@ -155,7 +141,7 @@ rayan.122450038@student.itera.ac.id
 Program Studi Sains Data
 patricia.122450050@student.itera.ac.id
 
-Azizah Kusumah Putri
+**Azizah Kusumah Putri**
 Program Studi Sains Data
 azizah.122450068@student.itera.ac.id
 

@@ -122,7 +122,7 @@ source("R/markov-analysis.R")
 
 Berikut adalah diagram transisi rantai Markov yang dihasilkan dalam proyek ini:
 
-![Diagram Alir](gambar/Diagram%Transisi.png)
+![Diagram Transisi](gambar/Diagram%20Transisi.png)
 
 
 ---

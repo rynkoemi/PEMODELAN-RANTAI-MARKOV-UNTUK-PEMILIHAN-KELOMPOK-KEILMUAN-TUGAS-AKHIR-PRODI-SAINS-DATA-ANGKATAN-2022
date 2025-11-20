@@ -20,6 +20,13 @@ Analisis mencakup pembersihan data, perhitungan matriks transisi, probabilitas m
 * 🧮 Script lengkap dalam **R**
 
 ---
+## 🔄 Diagram Alir Analisis
+
+Berikut adalah diagram alir proses analisis rantai Markov yang digunakan dalam proyek ini:
+
+![Diagram Alir](figures/flowchart.png)
+
+---
 
 ## 📁 Struktur Repository
 

@@ -24,7 +24,7 @@ Analisis mencakup pembersihan data, perhitungan matriks transisi, probabilitas m
 
 Berikut adalah diagram alir proses analisis rantai Markov yang digunakan dalam proyek ini:
 
-![Diagram Alir](figures/flowchart.png)
+![Diagram Alir](gambar/Diagram Alir Penelitian.png)
 
 ---
 
@@ -34,13 +34,14 @@ Berikut adalah diagram alir proses analisis rantai Markov yang digunakan dalam p
 📦 markov-keilmuan/
 │
 ├── data/
-│   └── form_responses.csv
+│   └── DATA PEMSTOK.csv
 │
 ├── R/
-│   └── markov-analysis.R
+│   └── CODE TUBES PEMSTOK.Rmd
 │
-├── figures/
-│   └── transition-diagram.png
+├── gambar/
+│   └── Diagram Transisi.png
+|   └── Diagram Alir Penelitian.png
 │
 └── README.md
 ```
@@ -119,6 +120,9 @@ source("R/markov-analysis.R")
 
 ## 🎨 Diagram Transisi (Contoh)
 
+Berikut adalah diagram transisi rantai Markov yang dihasilkan dalam proyek ini:
+
+![Diagram Alir](gambar/Diagram Transisi.png)
 
 
 ---
